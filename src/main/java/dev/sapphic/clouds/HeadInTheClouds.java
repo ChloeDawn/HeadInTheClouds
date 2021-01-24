@@ -22,7 +22,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.network.FMLNetworkConstants;
 import org.apache.commons.lang3.tuple.Pair;
 
-@Mod("head-in-the-clouds")
+@Mod("headintheclouds")
 public final class HeadInTheClouds {
   private static final double CLOUD_HEIGHT_FRACTION = 0.25;
   private static final double CAMERA_PARALLAX_FRACTION = 128 * 0.005;
