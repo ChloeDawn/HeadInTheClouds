@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "package": "dev.sapphic.clouds.mixin",
+  "client": [
+    "CloudTransformer"
+  ],
+  "refmap": "$refmap"
+}
