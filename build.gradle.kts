@@ -71,7 +71,7 @@ tasks {
   }
 
   processResources {
-    from(mixinConfig) {
+    filesMatching(mixinConfig) {
       expand("refmap" to mixinRefmap)
     }
   }
