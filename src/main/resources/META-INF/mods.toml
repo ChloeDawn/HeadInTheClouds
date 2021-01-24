@@ -7,7 +7,7 @@ modId = "headintheclouds"
 version = "${file.jarVersion}"
 displayName = "Head In The Clouds"
 authors = "Chloe Dawn"
-description = '''Adjusts cloud height relative to the current altitude'''
+description = """Adjusts cloud height relative to the current altitude"""
 
 [[dependencies.headintheclouds]]
 modId = "minecraft"
